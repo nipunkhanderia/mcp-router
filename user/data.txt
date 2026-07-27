@@ -1,0 +1,43 @@
+Artificial Intelligence (AI) refers to computer systems and technologies programmed to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. You can learn more about its foundational concepts through Google Cloud's AI Overview. 
+Advantages of AI
+Automation of Repetitive Tasks: AI handles routine, mundane chores quickly, freeing up human workers for creative and strategic work. 
+
+Unstop
+Reduction of Human Error: When programmed correctly, AI executes calculations and data processes with high precision and consistency, eliminating fatigue-based mistakes. 
+
+Unstop
+ +1
+24/7 Availability: AI systems can operate continuously around the clock without needing breaks or sleep. 
+
+Unstop
+ +1
+Fast Data Analysis: AI can process massive datasets in seconds, identifying complex patterns and trends that humans might miss. 
+
+Unstop
+Handling Hazardous Environments: Robots and AI-driven agents can take risks in dangerous areas—such as deep-sea exploration, mining, or handling radioactive materials—protecting human lives. 
+
+Tableau
+ +1
+Disadvantages of AI
+Job Displacement: Automation can replace routine roles in manufacturing, customer service, and data entry, raising unemployment and economic concerns. 
+
+Karpagam Institute of Technology
+High Implementation Costs: Building, deploying, and maintaining advanced AI infrastructure requires significant financial investment. 
+
+Karpagam Institute of Technology
+Lack of Emotional Intelligence: AI lacks true empathy, emotional depth, and moral judgment, meaning it cannot replace human nuance in sensitive situations. 
+
+GeeksforGeeks
+ +3
+Bias and Ethical Risks: AI models learn from historical data, which can contain human prejudices and result in biased or unfair decisions. 
+
+Karpagam Institute of Technology
+Data Privacy Concerns: AI systems rely on large volumes of data—often including personal or sensitive information—creating major privacy and cybersecurity vulnerabilities. 
+
+IBM
+ +1
+If you'd like, I can dive deeper into:
+How machine learning works
+Specific real-world examples of AI in healthcare or business
+Ethical guidelines for responsible AI use
+Let me know what you want to explore next!
