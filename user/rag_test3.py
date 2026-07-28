@@ -22,7 +22,7 @@ doc = loader.load()
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 50)
+splitter = RecursiveCharacterTextSplitter(chunk_size = 50, chunk_overlap = 5)
 chunks = splitter.split_documents(doc)
 
 
@@ -58,10 +58,14 @@ from langchain_groq import ChatGroq
 
 llm = ChatGroq(model= "llama-3.3-70b-versatile")
 
-llm_response = llm.invoke("Why is sky blue")
 
 
-print(retrieved)
+questions = "What is the diasadv of AI?"
+prompt = f"You are an expert AI and you are supposed to answer the query basedon this context{retrieved} give the nswer to the questions. Also you need to mention the locations if discussed any. Following is the questions{questions}"
+
+llm_response = llm.invoke(prompt)
+
+print(llm_response.content)
 
 
 

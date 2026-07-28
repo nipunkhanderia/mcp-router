@@ -19,7 +19,7 @@ Handling Hazardous Environments: Robots and AI-driven agents can take risks in d
 Tableau
  +1
 Disadvantages of AI
-Job Displacement: Automation can replace routine roles in manufacturing, customer service, and data entry, raising unemployment and economic concerns. 
+Job Displacement:London issue - Automation can replace routine roles in manufacturing, customer service, and data entry, raising unemployment and economic concerns. 
 
 Karpagam Institute of Technology
 High Implementation Costs: Building, deploying, and maintaining advanced AI infrastructure requires significant financial investment. 
